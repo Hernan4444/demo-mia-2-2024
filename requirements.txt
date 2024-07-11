@@ -1,0 +1,5 @@
+nltk
+matplotlib
+streamlit-folium
+altair
+folium
